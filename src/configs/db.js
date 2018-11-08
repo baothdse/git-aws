@@ -1,3 +1,3 @@
 module.exports = {
-    url : 'mongodb://192.168.2.114/product'
+    url : 'mongodb://10.0.1.39/product'
 }
